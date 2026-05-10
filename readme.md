@@ -1,0 +1,1 @@
+This project is for the digitization and automation of the purchase of lunch and breakfast tickets at the company Dipo S.A.
